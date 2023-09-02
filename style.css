@@ -1,0 +1,68 @@
+
+body{
+    background: #3AD6AD;
+}
+*{
+    color: #fff;
+}
+#Update{
+    display: none;
+}
+.mainheading{
+    color: black; 
+    padding-top: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: 800;
+}
+.mainheading:hover{
+    color: blue;
+}
+.mb-5{
+    position: relative;
+    top: 40px;
+}
+
+.btn{
+    position: relative;
+    color: black;
+    top: 15px;
+    font-weight: 600;
+}
+
+.btn:hover{
+    box-shadow: #fff 1px 2px 3px;
+}
+
+hr{
+    position: relative;
+    top: 20px;
+    color: black;
+}
+.table th{
+    background-color: rgba(34, 32, 32, 0.87);
+    color: #fff;
+}
+
+/* footer design */
+.footer{
+    background-color: rgba(255, 235, 205, 0.795);
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 0;
+}
+.footer p {
+    color: black;
+    font-size: 18px;
+    font-weight: 500;
+
+ 
+}
+
+.footer span{
+    color:#c0392b;
+}
+
